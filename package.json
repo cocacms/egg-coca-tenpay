@@ -1,0 +1,16 @@
+{
+  "name": "egg-coca-tenpay",
+  "version": "1.0.0",
+  "description": "coca tenpay",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rojer95/egg-coca-tenpay.git"
+  },
+  "eggPlugin": {
+    "name": "cocaTenpay",
+    "dependencies": []
+  },
+  "dependencies": {
+    "tenpay": "^2.1.18"
+  }
+}
